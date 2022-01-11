@@ -12,7 +12,7 @@ The project is called **Points**, you can learn more about it at https://fastrub
 
 This is a screenshot of the page you'll be working on:
 
-![Points "projects" page screenshot](images/points-screenshot.png?raw=true)
+![image](https://user-images.githubusercontent.com/97542292/148993155-31e9e118-4323-43f7-8d7e-1a403f9918d1.png)
 
 ## Task
 
