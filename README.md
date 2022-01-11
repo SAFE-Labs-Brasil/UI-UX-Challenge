@@ -1,4 +1,4 @@
-# SAFE Labs UI-UX-Challenge Developer Challenge
+# SAFE Labs UI-UX Challenge
 
 ## Presentation
 
