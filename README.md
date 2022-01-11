@@ -26,7 +26,7 @@ Get creative, how would you change this page to be more easily understood and in
 
 * Don't worry about the screens where the buttons would take you, this is just a mock of the real website only created for this test and the buttons are disabled
 
-* This is intended to be a ~4hs project
+* This is intended to be a ~2hs project
 
 * You can change anything from the provided css in `css/custom.css` and also the `index.html` if you need to (re-arrange/add tags, add classes, remove things, everything is allowed).
 
