@@ -8,7 +8,7 @@ To get a better idea of your design and implementation skills we would like you 
 
 ## The Challenge
 
-The project is called **Points**, you can learn more about it at https://fastruby.github.io/points/ if you are interested (but it's not required for this challenge).
+We have a model project internally called points, but this project doesn't have a beautiful and well-defined UI UX interface yet.
 
 This is a screenshot of the page you'll be working on:
 
@@ -16,7 +16,7 @@ This is a screenshot of the page you'll be working on:
 
 ## Task
 
-We would like you to make some design changes to the `/projects` page (the screenshot above). Currently, the page has some issues with spacing and it isn’t easily organized. It also uses some old css techniques that could be improved and it doesn't look right in narrow devices.
+We would like you to make some design changes to the project page (the screenshot above). Currently, the page has some issues with spacing and it isn’t easily organized. It also uses some old css techniques that could be improved and it doesn't look right in narrow devices.
 
 We would also like to add our brand somewhere (maybe a `Powered by SAFE Labs` label?).
 
