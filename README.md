@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/97542292/149010410-fe7cbdb5-e934-4cfd-935b-89dae60ecf69.png)
+
 # SAFE Labs UI-UX Challenge
 
 ## Presentation
